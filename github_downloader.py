@@ -20,7 +20,7 @@ def download_file(url, destination_folder, filename):
         with open(file_path, 'wb') as f:
             f.write(response.content)
 
-        print(f"File '{filename}' downloaded successfully!")
+        print(f"File '{filename}' downloaded successfully at '{destination_folder}'")
 
     except requests.exceptions.RequestException as e:
         print(f"Error downloading the file from {url}: {e}")
