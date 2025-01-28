@@ -1,2 +1,3 @@
 file_name,url
 workflow.flopack,https://raw.githubusercontent.com/Swat-thapa/Bedrockai/refs/heads/main/workflows/assign_temporary_group_memberships/workflow.flopack
+workflow1,https://bitbucket.org/beyondid/bedrockaioktaworkflow/raw/ce7c76e3e8e12a4c3c19ce9257374cb5f05f0ab7/workflows/automate_account_creation_from_jira/workflow.flopack
